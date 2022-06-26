@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stuname": "Pappu Splander",
+      "email": "pappu.splender@123gmail.com"
+    },
+    {
+      "stuname": "Sunju Singhayniyaa",
+      "email": "sunju.singhayaniyaa@femail.com",
+      "id": 4
+    },
+    {
+      "stuname": "Ismile bhai",
+      "email": "ismile.bhai@786rediffmail.com\t",
+      "id": 5
+    },
+    {
+      "stuname": "Tony dinesh",
+      "email": "tony.dinesh@gaymail.com",
+      "id": 6
+    },
+    {
+      "stuname": "Akshay Kumbhare",
+      "email": "akshay.kumbhare124@gmail.com",
+      "id": 7
+    },
+    {
+      "stuname": "Ram Mishra",
+      "email": "ram.mishra@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Akshay Kumbhare",
+      "email": "akshay.kumbhare124@gmail.com",
+      "contactNo": "08999798993",
+      "age": "21",
+      "location": "Banaras",
+      "id": 9
+    },
+    {
+      "name": "Akshay Kumbhare",
+      "email": "akshay.kumbhare124@gmail.com",
+      "contactNo": "08999798993",
+      "age": "21",
+      "location": "Banaras",
+      "id": 10
+    },
+    {
+      "name": "Akshay Kumbhare",
+      "email": "akshay.kumbhare124@gmail.com",
+      "contactNo": "08999798993",
+      "age": "21",
+      "location": "Banaras",
+      "id": 11
+    },
+    {
+      "name": "Akshay Kumbhare",
+      "email": "akshay.kumbhare124@gmail.com",
+      "contactNo": "08999798993",
+      "age": "21",
+      "location": "Banaras",
+      "id": 12
+    },
+    {
+      "name": "Akshay Kumbhare",
+      "email": "akshay.kumbhare124@gmail.com",
+      "contactNo": "08999798993",
+      "age": "21",
+      "location": "Banaras",
+      "id": 13
+    }
+  ]
+}
