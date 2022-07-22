@@ -1,3 +1,21 @@
+JSON server -:
+for making fake api & jismay humara data raheygaa.
+https://www.npmjs.com/package/json-server 
+follow above line & perform some installiation
+json-server --watch db.json  --port 3333
+
+React Router DOM 
+for routing purpose.
+https://www.npmjs.com/package/react-router-dom
+
+Material ui & icon
+https://v4.mui.com/getting-started/installation/
+ 
+Axios 
+api may kaise request send karya ge & post data kaise send kary ge by 
+using axios
+https://www.npmjs.com/package/axios
+
 db.json  -:
 {
   "students": [
