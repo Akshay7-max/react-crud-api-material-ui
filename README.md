@@ -1,6 +1,7 @@
 JSON server -:
 for making fake api & jismay humara data raheygaa.
 https://www.npmjs.com/package/json-server 
+
 Run multiple commands concurrently. 
 https://www.npmjs.com/package/concurrently
 
