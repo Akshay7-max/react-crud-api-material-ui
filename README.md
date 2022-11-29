@@ -5,6 +5,12 @@ https://www.npmjs.com/package/json-server
 Run multiple commands concurrently. 
 https://www.npmjs.com/package/concurrently
 
+package.json -:  
+"scripts": {
+"json-server": "json-server --watch db.json --port 3003",
+"start:dev": "concurrently \"npm start\" \"npm run json-server\"",
+}
+
 follow above line & perform some installiation
 json-server --watch db.json  --port 3333
 
