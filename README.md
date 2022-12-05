@@ -56,6 +56,10 @@ To run above file use command -:
 json-server --watch db.json  --port 3333
 To view result
 http://localhost:3333/students
+
+To run both db.json & react app at single time run below command
+>npm run start:dev
+
 get all record
 const students = await axios.get("http://localhost:3333/students");
 get all single
